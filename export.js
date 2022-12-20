@@ -4,3 +4,6 @@ export const main=()=>{
       console.log("Hello")
     },2000)
 }
+export default()=>{
+    console.log("Hello World")
+}

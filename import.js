@@ -1,3 +1,4 @@
-import {name}from",/export.js";
+import get,{name}from",/export.js";
+import {main}from",/export.js";
 console.log(name)
-console.log(main())
+console.log(main(),get())
